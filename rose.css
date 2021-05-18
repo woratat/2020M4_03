@@ -3,10 +3,10 @@ table,th,td{
     border-spacing: 5px;
     text-align: center;
     text-transform:uppercase;
-    color: rgb(6, 183, 241);
+    color: rgb(20, 160, 207);
 }
 table{
-    width: 50%;
+    width: 100%;
 }
 th{
     height: 60px;
@@ -17,4 +17,8 @@ tr.content{
 }
 td{
     height: 60px;
+}
+img{
+    width: 200px;
+    height: auto;
 }

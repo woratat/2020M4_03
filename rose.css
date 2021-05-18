@@ -1,0 +1,20 @@
+table,th,td{
+    border: 2px solid red;
+    border-spacing: 5px;
+    text-align: center;
+    text-transform:uppercase;
+    color: rgb(6, 183, 241);
+}
+table{
+    width: 50%;
+}
+th{
+    height: 60px;
+}
+tr.content{
+    height: 200px;
+    
+}
+td{
+    height: 60px;
+}

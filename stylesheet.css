@@ -19,3 +19,10 @@ div{
     height: 50px;
     text-align: center;
 }
+.table_style{
+    color: red;
+}
+div.table_style{
+    color: green;
+    background-color: blue;
+}
